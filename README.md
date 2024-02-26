@@ -113,6 +113,7 @@ Indexer endpoints
 - `https://namada-explorer-api.stakepool.dev.br/` (StakePool)
 - `https://rpc-namada.kintsugi-nodes.com/` (Kintsugi)
 - `https://namada-se100-rpc.gatadao.com/` (GATADAO)
+- `https://rpc-namada-se.decentrio.ventures` (Decentrio)
 - `https://namada-shielded-expedition-rpc.denodes.xyz/` (deNodes)
 - `https://namada-se-rpc.citadel.one/` (CitadelOne)
 - `https://namada-rpc.dsrvlabs.dev/` (DSRVLabs)
